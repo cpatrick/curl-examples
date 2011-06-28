@@ -6,3 +6,6 @@ find_package( CURL REQUIRED )
 
 add_executable( CURLExample1 CURLExample1.cxx )
 target_link_libraries( CURLExample1 ${CURL_LIBRARY} )
+
+add_executable( CURLExample2 CURLExample2.cxx )
+target_link_libraries( CURLExample2 ${CURL_LIBRARY} )
