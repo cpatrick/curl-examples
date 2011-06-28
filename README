@@ -1,0 +1,4 @@
+This will contain a set of simple command-line applications for playing with
+cURL.
+
+Example #1: This does a simple HTTP HEAD request.
