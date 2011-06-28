@@ -2,3 +2,4 @@ This will contain a set of simple command-line applications for playing with
 cURL.
 
 Example #1: This does a simple HTTP HEAD request.
+Example #2: This does a HTTP GET request and saves the file.
